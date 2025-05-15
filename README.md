@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @arshya7m
 - 👀 I’m interested in DataScience and Machine Learning
-- 🌱 I’m currently learning LLMs and new upcoming stuff in this field.
-- 📫 How to reach me [Linked in](https://www.linkedin.com/in/arshya-moonat/)
+- 🌱 I’m currently learning about LLMs and new upcoming stuff in this field.
+- 📫 How to reach me: [Linked in](https://www.linkedin.com/in/arshya-moonat/)
 - ⚡ Fun fact: I love doing artistic stuff as well sometimes!
 
 <!---
